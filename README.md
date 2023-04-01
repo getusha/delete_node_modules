@@ -3,7 +3,8 @@ The delete_node_modules script is a Bash script that deletes the node_modules di
 
 To use the script:
 
-1. Change to the parent directory containing all the subdirectories you want to clean up. For example, cd projects. and update the following code accordingly
+1. Change to the parent directory containing all the subdirectories you want to clean up. For example, cd projects.  
+2. update the following code accordingly (Optional)
 https://github.com/getusha/delete_node_modules/blob/3767106a5b3f26f0231c852c3869fab8a26165c1/delnm.sh#L3-L4
 3. Copy the delnm.sh file to the parent directory.
 4. Make the script executable by running chmod +x delnm.sh.
